@@ -2,6 +2,7 @@ baseurl = "https://pitakill.net/"
 title = "pitakill's stuff"
 languageCode = "en-us"
 theme = "hugo-geo"
+googleAnalytics = "UA-1895401-1"
 
 [taxonomies]
   tag = "tags"
