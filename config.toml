@@ -1,4 +1,4 @@
-baseurl = "https://pitakill.net/"
+baseurl = "https://pitakill.net"
 title = "pitakill's stuff"
 languageCode = "en-us"
 theme = "hugo-geo"
@@ -8,6 +8,7 @@ theme = "hugo-geo"
   tutorial = "tutorials"
 
 [params]
+  analytics = "UA-1895401-1"
   showglobe = true
 
   github = "https://github.com/pitakill"
