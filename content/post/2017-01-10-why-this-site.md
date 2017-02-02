@@ -8,7 +8,7 @@ summary = "This is a domain is almost in his thirteen anniversary"
 
 +++
 
-This [domain](http://pitakill.net) is almost in his thirteen anniversary, in the first steps was a blog about my GNU/Linux stuff, and a catalog of some weird recording of the cuban songwriter Silvio Rodríguez. The engine behind was JAWS, made it by some folks in México.<!--more-->
+This [domain](http://pitakill.net) is almost in its thirteen anniversary, in the first steps was a blog about my GNU/Linux stuff, and a catalog of some weird recording of the cuban songwriter Silvio Rodríguez. The engine behind was JAWS, made by some folks in México.<!--more-->
 
 Why revive it? Because:
 
